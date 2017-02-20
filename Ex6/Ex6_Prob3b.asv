@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Exercise 6    TTK4130 Modeling and Simulation     Helene Hogstad Fossum %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Problem 3b Inverse of the matrix
+syms 'lambda';
+sy
+
+A = lambda*h;
+
